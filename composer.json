@@ -1,0 +1,22 @@
+{
+  "name": "nvt108/phpword",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "trungnv",
+      "email": "nvtrung108@gmail.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "autoload": {
+    "files": [
+      "DataAccessor.php",
+      "helpers.php",
+      "User.php"
+    ]
+  }
+}
